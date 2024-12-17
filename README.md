@@ -22,7 +22,7 @@ Click on any video thumbnail, and instead of playing the expected video, you'll 
 slippyishappy.github.io/video-gallery/
 
 ## Screenshots 🖼️
-![](.assets/screenshot_desktop.png)
+![](./assets/assets/screenshot_desktop.png)
 
 ## Credits 🎤
 Rick Astley: The legend himself for making this masterpiece.
